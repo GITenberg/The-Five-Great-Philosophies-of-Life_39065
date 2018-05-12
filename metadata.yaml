@@ -1,0 +1,31 @@
+_repo: The-Five-Great-Philosophies-of-Life_39065
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hyde, William De Witt
+    alias: Hyde, William DeWitt
+    birthdate: 1858
+    deathdate: 1917
+    gutenberg_agent_id: '26435'
+    url: http://www.gutenberg.org/2009/agents/26435
+description: ''
+gutenberg_issued: '2012-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39065'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Philosophy, Ancient'
+- !lcsh 'Ethics'
+tableOfContents: The Epicurean pursuit of pleasure -- Stoic self-control by law --
+  The Platonic subordination of lower to higher -- The Aristotelian sense of proportion
+  -- The Christian spirit of love.
+title: The Five Great Philosophies of Life
+url: http://www.gutenberg.org/ebooks/39065
